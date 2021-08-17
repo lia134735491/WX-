@@ -1,0 +1,36 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "songPackage/pages/songDetail/songDetail",
+          "pathName": "songPackage/pages/songDetail/songDetail",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/index/index",
+          "pathName": "pages/index/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "songPackage/pages/recommendSong/recommendSong",
+          "pathName": "songPackage/pages/recommendSong/recommendSong",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}
